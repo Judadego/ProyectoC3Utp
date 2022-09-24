@@ -39,6 +39,9 @@ body{
     background-attachment: fixed;    
     position: relative;
  }
+ #contLogin{
+    text-align: left;
+ }
  #btnregistro{
     color:black;
  }
